@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">👋 Olá! Eu sou o Vicente Duarte</h1>
 
-<!--
-**VIC18eu/VIC18eu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💡 Desenvolvedor focado em criar soluções tecnológicas que simplificam a vida das pessoas.<br>
+  💊 Atualmente a desenvolver a <strong>MyHealth</strong> como projeto de PAP.<br>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+
+- 💻 C# | WinForms | MaterialSkin | Python | Lua
+- 🌐 HTML/CSS
+- 🔧 Node.js | Express
+- 📊 LiveCharts | JSON config | Charts.js
+- 🗂️ PostgreSQL | SQL Server
+
+---
+
+## 📫 Contacta-me
+
+- ✉️ vicenteld.dev@gmail.com
+- 💬 LinkedIn: https://www.linkedin.com/in/vicente-duarte-71046535b/
