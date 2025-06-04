@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou o Vicente Duarte</h1>
 
 <p align="center">
-  💡 Desenvolvedor focado em criar soluções tecnológicas que simplificam a vida das pessoas.<br>
+  💡 Focado em criar soluções tecnológicas para simplificar a vida das pessoas.<br>
   💊 Atualmente a desenvolver a <strong>MyHealth</strong> como projeto de PAP.<br>
 </p>
 
