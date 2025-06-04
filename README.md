@@ -9,9 +9,9 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-- 💻 **Linguagens & Interfaces:** C# | WinForms | MaterialSkin | Python | Lua
-- 🌐 **Web:** HTML/CSS | Node.js | Express
-- 📊 **Visualização de Dados:** LiveCharts | Chart.js | Configurações em JSON
+- 💻 **Linguagens:** C# | Python | Lua
+- 🎨 **Frontend:** HTML/CSS | Chart.js
+- 🔧 **Backend:** Node.js | Express | JSON Config
 - 🗄️ **Bases de Dados:** PostgreSQL | SQL Server
 
 ---
