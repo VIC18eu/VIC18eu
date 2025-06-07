@@ -19,10 +19,11 @@ Estou sempre aberto a desafios e pronto para colaborar em projetos que façam a 
 
 ## 🛠️ Tecnologias & Ferramentas
 
-- 💻 **Linguagens:** C# | Python | Lua
-- 🎨 **Frontend:** HTML/CSS | Chart.js
-- 🔧 **Backend:** Node.js | Express | JSON Config
-- 🗄️ **Bases de Dados:** PostgreSQL | SQL Server
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=c,html,css,js,nodejs,python,lua,postgres,git,github,vscode,visualstudio)
+
+</div>
 
 ---
 
