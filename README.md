@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá! Eu sou o Vicente Duarte</h1>
 
-<p align="center">
+<p>
   💡 Apaixonado por desenvolver soluções tecnológicas que tornam o dia a dia mais simples.<br>
   💊 Atualmente a trabalhar no projeto <strong>MyHealth</strong>, como parte da minha PAP.<br>
 </p>
