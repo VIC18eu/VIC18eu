@@ -1,9 +1,19 @@
 <h1 align="center">👋 Olá! Eu sou o Vicente Duarte</h1>
 
 <p>
-  💡 Apaixonado por desenvolver soluções tecnológicas que tornam o dia a dia mais simples.<br>
   💊 Atualmente a trabalhar no projeto <strong>MyHealth</strong>, como parte da minha PAP.<br>
 </p>
+
+---
+
+## 💡 Sobre mim
+
+Sou o Vicente, apaixonado por tecnologia e sempre disposto a aprender!
+Adoro transformar ideias em código que realmente facilite a vida das pessoas.
+
+Atualmente, estou focado nas áreas de **desenvolvimento Web** e **Inteligência Artificial**, pois acredito que a combinação dessas tecnologias é o futuro para criar soluções inteligentes e impactantes.
+
+Estou sempre aberto a desafios e pronto para colaborar em projetos que façam a diferença no dia a dia das pessoas.
 
 ---
 
